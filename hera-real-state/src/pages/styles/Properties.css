@@ -26,6 +26,7 @@
     transition: all 0.4s ease-in-out;
     overflow: hidden;
     box-shadow: #b5b5b529 0px 10px 36px 0px, #8080800f 0px 0px 0px 1px;
+    z-index: -1;
   }
   
   .property-wrapper a::after {
