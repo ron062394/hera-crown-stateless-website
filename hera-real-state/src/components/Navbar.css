@@ -1,4 +1,6 @@
 .navbar {
+    display: flex;
+    justify-content: space-between;
     color: azure;
     background-color: #253B44;
 }
@@ -17,4 +19,8 @@ li {
 a{
     color: azure;
     text-decoration: none;
+}
+
+img {
+    height: 15vh;
 }
