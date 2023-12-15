@@ -7,7 +7,7 @@ body {
   background-color: azure;
 }
 
-.main, .contact, .about, .properties {
+.main, .contact, .about, .property {
   margin: 0 2rem;
 }
 
