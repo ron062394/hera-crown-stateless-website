@@ -3,6 +3,7 @@ import './Navbar.css'
 const Navbar = () => {
     return (
       <nav className="navbar">
+        <img src="https://i.postimg.cc/htfHwkdv/hera-logo.png" alt="" />
         <ul className="nav-links">
           <li>
             <Link to='/'>Home</Link>
@@ -11,10 +12,10 @@ const Navbar = () => {
             <Link to='/properties'>Lots & Properties</Link>
           </li>
           <li>
-            <Link to='/properties'>About Us</Link>            
+            <Link to='/about'>About Us</Link>            
           </li>
           <li>
-            <Link to='/properties'>Contact Us</Link>                      
+            <Link to='/contact'>Contact Us</Link>                      
           </li>
         </ul>
       </nav>
