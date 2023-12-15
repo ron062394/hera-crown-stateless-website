@@ -1,16 +1,21 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: azure;
     background-color: #253B44;
-    padding: 0 3rem;
+    padding: 0 2rem;
 }
 ul {
     display: flex;
     justify-content:space-between;
-    align-items: center;
-    margin: rem;    
+    align-items: center;   
 }
 
 li {
@@ -21,6 +26,15 @@ li {
 a{
     color: azure;
     text-decoration: none;
+    transition: border 0.2s ease;
+}
+
+a:hover {
+    border-bottom: 2px solid #dfb60b;
+}
+
+a:focus {
+    color: #dfb60b;
 }
 
 img {
