@@ -15,11 +15,15 @@ Cityville, State, Zip Code</p>
                 <p>Sales Inquiries: +1 (987) 654-3210</p>
             </div>
             <div>
-                <h3></h3>
-                <p></p>
+                <h3>Email:</h3>
+                <p>General Inquiries: info@herasdreamdwellings.com</p>
+                <p>Sales Department: sales@herasdreamdwellings.com</p>
+                <p>Support: support@herasdreamdwellings.com</p>
             </div>
             <div>
-                <h3></h3>
+                <h3>Office Hours:</h3>
+                <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
+                <p></p>
                 <p></p>
             </div>
             <div>
