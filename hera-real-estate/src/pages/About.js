@@ -4,7 +4,7 @@ import './styles/About.css'
 const About = () => {
     return (
         <div className="about">
-            <div>
+            <div className="welcome-section">
                 <h2>Welcome to Hera's Dream Dwellings</h2>
                 <p>At Hera's Dream Dwellings, we believe that finding the perfect home is not just about the property; it's about discovering the place where your dreams take root and flourish. Established in [year], our journey began with a passion for helping individuals and families find their ideal homes, and it continues with an unwavering commitment to excellence in real estate services.</p>
             </div>
