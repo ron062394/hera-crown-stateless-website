@@ -12,7 +12,7 @@ const About = () => {
                 <h2>Our mission</h2>
                 <p>Our mission is simple yet profound: to guide and support you through every step of your real estate journey. We strive to create meaningful connections between people and properties, transforming houses into homes and aspirations into realities.</p>
             </div>
-            <div>
+            <div className="expertise">
                 <h2>A Legacy of Trust and Expertise</h2>
                 <p>With over 10 years of experience, Hera's Dream Dwellings has been a cornerstone in the real estate industry. Our team comprises dedicated professionals with extensive knowledge and a shared commitment to providing personalized solutions that cater to your unique needs.</p>
             </div>
